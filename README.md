@@ -12,15 +12,17 @@ Imagine a database table named `products`, with the following columns:
 * `photo` : string (using carrierwave)
 * `category_id` : integer
 
+### Stuff for you to do
 
-Write the class definition for the ActiveRecord::Base object. Include the
+a) Don't create a whole Rails app. Just create a file named "#{something}.rb".  
+2) Write the class definition for the ActiveRecord::Base object. Include the
 follwing:
 
 1. Validation for all fields
 1. The carrierwave uploader mounting
 1. Relationships (category)
 
-Hard Mode:
+### Hard Mode:
 
 1. Include a method `price` that will return the price in dollars
 1. Include a method `price=` that will take the price in dollars and store it in
