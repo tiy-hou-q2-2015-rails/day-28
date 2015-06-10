@@ -1,4 +1,4 @@
-Day 28: AWS, Taggling, Following
+Day 28: AWS, Tagging, Following
 ========================
 
 Challenge:
